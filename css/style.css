@@ -1,0 +1,12 @@
+p {
+    color: pink
+}
+h1 {
+    background-color: salmon;
+}
+h3 {
+    background-color: seagreen;
+}
+h1 + h3 {
+    color: palevioletred;
+}
